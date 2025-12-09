@@ -5,7 +5,7 @@ license="ftptp"
 [[mods]]
 
 modId="keple"
-version="1.0"
+version="0.1"
 displayName="Keple"
 #logoFile="examplemod.png"
 authors="byme4u"
